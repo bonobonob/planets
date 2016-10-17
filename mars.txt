@@ -1,4 +1,1 @@
-this is line 1
-this is another
-line 3
-
+potato
